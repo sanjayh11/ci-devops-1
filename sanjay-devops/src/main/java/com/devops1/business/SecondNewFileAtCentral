@@ -1,9 +1,10 @@
+
 public class firstCentralClass
 {
 
 public status void main (String args[]){
 
-int count = 10;
+private Integer count = new Integer (10);
 
 }
 
